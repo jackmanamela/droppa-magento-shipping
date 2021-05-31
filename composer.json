@@ -26,19 +26,5 @@
             "Droppa\\DroppaShipping\\": ""
         }
     },
-    "authors": [
-        {
-            "name": "Jack Manamela",
-            "email": "jackm@droppa.co.za",
-            "role": "Developer"
-        }
-    ],
-    "support": {
-        "email": "itsupport@droppa.co.za"
-    },
-    "archive": {
-        "name": "../DroppaShipping",
-        "skip-dev": false
-    },
     "version": "1.0.0"
 }
