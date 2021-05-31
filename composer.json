@@ -24,10 +24,6 @@
             "url": "https://repo.magento.com/"
         },
         {
-            "type": "packagist",
-            "url": "https://packagist.org/packages/droppa-2020/droppashipping"
-        },
-        {
             "type": "git",
             "url": "https://github.com/jackmanamela/droppa-magento-shipping"
         }
