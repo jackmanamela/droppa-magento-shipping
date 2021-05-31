@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!-- 3. Module Configuration -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <carriers>
+            <droppashipping>
+                <specificerrmsg>This shipping method is not available. To use this shipping method, please contact us.</specificerrmsg>
+                <active>0</active>
+                <name>Droppa Shipping</name>
+                <title>Droppa Shipping</title>
+                <api_key></api_key>
+                <service_key></service_key>
+                <shipping_cost>0</shipping_cost>
+                <sallowspecific>0</sallowspecific>
+                <sort_order>15</sort_order>
+                <min_package_weight>1</min_package_weight>
+                <max_package_weight>70</max_package_weight>
+                <model>Droppa\DroppaShipping\Model\Carrier\DroppaShipping</model>
+            </droppashipping>
+        </carriers>
+    </default>
+</config>

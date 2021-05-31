@@ -1,0 +1,44 @@
+{
+    "name": "droppa-2020/droppashipping",
+    "description": "Custom Droppa Shipping Module",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "keywords": [
+        "Magento 2",
+        "Magento 2 Courier",
+        "Magento 2 Shipping",
+        "Courier",
+        "Magento 2 extension free"
+    ],
+    "require": {
+        "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0"
+    },
+    "type": "magento2-module",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Droppa\\DroppaShipping\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Jack Manamela",
+            "email": "jackm@droppa.co.za",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "itsupport@droppa.co.za"
+    },
+    "archive": {
+        "name": "../DroppaShipping",
+        "skip-dev": false
+    },
+    "version": "1.0.0"
+}
