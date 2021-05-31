@@ -1,7 +1,7 @@
 {
     "name": "droppa-2020/droppashipping",
     "description": "Custom Droppa Shipping Module",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "keywords": [
         "Magento 2",
