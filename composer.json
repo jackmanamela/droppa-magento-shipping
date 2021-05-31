@@ -1,6 +1,8 @@
 {
     "name": "droppa-2020/droppashipping",
     "description": "Custom Droppa Shipping Module",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "keywords": [
         "Magento 2",
         "Magento 2 Courier",
@@ -22,5 +24,6 @@
         "psr-4": {
             "Droppa\\DroppaShipping\\": ""
         }
-    }
+    },
+    "version": "v1.0.0"
 }
